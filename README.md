@@ -103,7 +103,7 @@ Advanced cryptocurrency market analysis tool with technical indicators and trend
 I'm always excited to connect with fellow developers, investors, and nomads!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanric)
-[![X](https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=x&logoColor=black)](https://x.com/shanricx)
+[![X](https://img.shields.io/badge/-@shanricx-1DA1F2?style=flat-square&logo=x&logoColor=black)](https://x.com/shanricx)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shanric.dev@gmail.com)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://blog.shanric.dev)
 
@@ -117,7 +117,7 @@ I'm always excited to connect with fellow developers, investors, and nomads!
 
 ---
 
-⭐️ From [Shanric](https://github.com/shanricx) | 🌍 Currently coding from: **[Japan]**
+⭐️ From [Shanric](https://github.com/shanricx) | 🌍 Currently coding from: **Japan**
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shanricx&color=blue&style=flat-square" alt="Profile Views" />
