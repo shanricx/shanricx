@@ -103,7 +103,7 @@ Advanced cryptocurrency market analysis tool with technical indicators and trend
 I'm always excited to connect with fellow developers, investors, and nomads!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanric)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shanric)
+[![X](https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=x&logoColor=black)](https://x.com/shanricx)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shanric.dev@gmail.com)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://blog.shanric.dev)
 
